@@ -1,7 +1,11 @@
 # Hola, Soy Ivan Gauto
 Soy estudiante de la **Licenciatura en Sistemas de la Información**, actualmente residiendo en **Corrientes Capital, Argentina**.
+
 Estoy abierto a participar en todo tipo de proyectos, con interés en el área de **automatización y agentes de IA**.
-Creo fielmente que las herramientas y tecnologías evolucionan cada vez más rápido, y busco adaptarme constantemente a estos cambios, aprendiendo y mejorando mis habilidades como desarrollador. Por otra parte soy muy predispuesto a trabajar en equipo, escuchando propuestas y discutir para mejorar cualquier desarrollo o proyecto que este realizando con el mismo mencionado
+
+Creo fielmente que las herramientas y tecnologías evolucionan cada vez más rápido, y busco adaptarme constantemente a estos cambios, aprendiendo y mejorando mis habilidades como desarrollador. 
+
+Por otra parte soy muy predispuesto a trabajar en equipo, escuchando propuestas y discutir para mejorar cualquier desarrollo o proyecto que este realizando con el mismo mencionado
 
 ## Tecnologías
 
