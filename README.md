@@ -7,7 +7,7 @@ Creo fielmente que las herramientas y tecnologías evolucionan cada vez más rá
 
 Por otra parte soy muy predispuesto a trabajar en equipo, escuchando propuestas y discutir para mejorar cualquier desarrollo o proyecto que estemos realizando. 
 
-Podes encontrar mis redes en la biografia para contactarme
+Podes encontrar mis redes en la biografia para contactarme.
 
 ## Tecnologías
 
