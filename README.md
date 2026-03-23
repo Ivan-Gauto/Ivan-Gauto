@@ -14,6 +14,5 @@
 
 # Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Gauto&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=Ivan-Gauto&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Gauto&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Gauto&layout=compact&theme=dark)
