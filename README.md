@@ -1,5 +1,7 @@
 # Hola, soy Ivan
 
+Estudiante de Licenciatura en Sistemas de la Informacion
+
 ---
 
 # Tecnologías
