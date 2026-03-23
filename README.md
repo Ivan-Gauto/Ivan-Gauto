@@ -1,9 +1,3 @@
-# Hola, soy Ivan
-
-Estudiante de Licenciatura en Sistemas de la Informacion
-
----
-
 # Tecnologías
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
