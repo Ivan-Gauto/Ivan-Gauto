@@ -1,7 +1,5 @@
 # Hola, soy Ivan
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&width=600&lines=Desarrollando;Explora+mis+repos;Siempre+aprendiendo&theme=dark)
-
 ---
 
 # Tecnologías
