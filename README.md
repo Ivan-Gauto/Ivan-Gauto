@@ -1,6 +1,6 @@
 # Hola, soy Ivan
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desarrollando;Explora+mis+repos;Siempre+aprendiendo)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&size=25&center=true&vCenter=true&width=600&lines=Desarrollando;Explora+mis+repos;Siempre+aprendiendo)
 
 ---
 
