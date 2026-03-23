@@ -16,4 +16,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Gauto&show_icons=true&theme=radical)
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Ivan-Gauto)
+![Streak](https://streak-stats.demolab.com?user=Ivan-Gauto&theme=radical)
