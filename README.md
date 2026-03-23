@@ -4,22 +4,22 @@
 
 ---
 
-## Tecnologías
+# Tecnologías
 
-# Front 
+## Front 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
 
-# Back
+## Back
 
 <img src="https://skillicons.dev/icons?i=php,java,mysql,postgres" />
 
-# Frameworks y librerias
+## Frameworks y librerias
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,npm" />
 
 ---
 
-## Stats
+# Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Gauto&show_icons=true&theme=radical)
