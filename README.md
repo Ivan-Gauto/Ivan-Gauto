@@ -6,16 +6,8 @@
 
 # Tecnologías
 
-## Front 
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
-
-## Back
-
 <img src="https://skillicons.dev/icons?i=php,java,mysql,postgres" />
-
-## Frameworks y librerias
-
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,npm" />
 
 ---
