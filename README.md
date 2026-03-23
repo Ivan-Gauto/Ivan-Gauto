@@ -6,9 +6,9 @@
 
 # Tecnologías
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" />
-<img src="https://skillicons.dev/icons?i=php,java,mysql,postgres" />
-<img src="https://skillicons.dev/icons?i=c,cs,git,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
+<img src="https://skillicons.dev/icons?i=php,c,cs,java,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=,git,npm,bootstrap,tailwind,react" />
 
 ---
 
