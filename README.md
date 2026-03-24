@@ -24,4 +24,4 @@ Podes encontrar mis redes en la biografia para contactarme.
 
 ---
 
-![snake](https://github.com/Ivan-Gauto/Ivan-Gauto/blob/output/github-contribution-grid-snake.svg)
+![gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
