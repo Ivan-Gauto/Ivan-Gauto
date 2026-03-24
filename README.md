@@ -21,3 +21,7 @@ Podes encontrar mis redes en la biografia para contactarme.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Gauto&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Gauto&layout=compact&theme=dark)
+
+---
+
+![snake](https://github.com/Ivan-Gauto/Ivan-Gauto/blob/output/github-contribution-grid-snake.svg)
