@@ -1,4 +1,4 @@
-# Hola, Soy Ivan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=200&section=header&text=Hola,+Soy+Ivan&fontColor=ffffff" />
 Soy estudiante de la **Licenciatura en Sistemas de la Información**, actualmente residiendo en **Corrientes Capital, Argentina**.
 
 Estoy abierto a participar en todo tipo de proyectos, con interés en el área de **automatización y agentes de IA**.
@@ -8,8 +8,6 @@ Creo fielmente que las herramientas y tecnologías evolucionan cada vez más rá
 Por otra parte soy muy predispuesto a trabajar en equipo, escuchando propuestas y discutir para mejorar cualquier desarrollo o proyecto que estemos realizando. 
 
 Podes encontrar mis redes en la biografia para contactarme.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=200&section=header&text=Ivan&fontColor=ffffff" />
 
 ![visits](https://komarev.com/ghpvc/?username=Ivan-Gauto&color=blue)
 
