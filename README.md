@@ -19,7 +19,7 @@ Podes encontrar mis redes en la biografia para contactarme.
 <img src="https://skillicons.dev/icons?i=php,c,cs,java,mysql,postgres" />
 <img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" />  
 
-![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhxeXdqamR4cmtlbzE3eTBxeDJ5cjdja3N2dzZyMmo2ajNvaDBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
+[![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhxeXdqamR4cmtlbzE3eTBxeDJ5cjdja3N2dzZyMmo2ajNvaDBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)](https://tenor.com/oXcwdLYPNSY.gif)
 
 ---
 
