@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ivan)
+# Hola, Soy Ivan
 Soy estudiante de la **Licenciatura en Sistemas de la Información**, actualmente residiendo en **Corrientes Capital, Argentina**.
 
 Estoy abierto a participar en todo tipo de proyectos, con interés en el área de **automatización y agentes de IA**.
