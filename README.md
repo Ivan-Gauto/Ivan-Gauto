@@ -9,6 +9,8 @@ Por otra parte soy muy predispuesto a trabajar en equipo, escuchando propuestas 
 
 Podes encontrar mis redes en la biografia para contactarme.
 
+![visits](https://komarev.com/ghpvc/?username=Ivan-Gauto&color=blue)
+
 ## Tecnologías
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
