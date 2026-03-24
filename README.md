@@ -13,7 +13,9 @@ Podes encontrar mis redes en la biografia para contactarme.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
 <img src="https://skillicons.dev/icons?i=php,c,cs,java,mysql,postgres" />
-<img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" />  ![gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" />  
+
+![gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
