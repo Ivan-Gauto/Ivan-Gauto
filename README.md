@@ -9,6 +9,8 @@ Por otra parte soy muy predispuesto a trabajar en equipo, escuchando propuestas 
 
 Podes encontrar mis redes en la biografia para contactarme.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=200&section=header&text=Ivan&fontColor=ffffff" />
+
 ![visits](https://komarev.com/ghpvc/?username=Ivan-Gauto&color=blue)
 
 ## Tecnologías
