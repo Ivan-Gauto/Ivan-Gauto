@@ -21,8 +21,6 @@ Podes encontrar mis redes en la biografia para contactarme.
 
 ![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViY2xub2RsaWd3OG9objRzbmxnaXcyaXl6em8yaDJvaTBveTN1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
 
----
-
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Gauto&show_icons=true&theme=dark)
