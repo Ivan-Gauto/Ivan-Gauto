@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm54bmNianVzYTJncmphZGMwYmQ4eHJwMDIwNjZqcXE5Mmw2ZHVnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVO1kC1C5UO1tqGKBG/giphy.gif" alt="Coding GIF" width="800" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm54bmNianVzYTJncmphZGMwYmQ4eHJwMDIwNjZqcXE5Mmw2ZHVnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVO1kC1C5UO1tqGKBG/giphy.gif" alt="Coding GIF" width="400" />
 </p>
 
 # Hola, soy Ivan
