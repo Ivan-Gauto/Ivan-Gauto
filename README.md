@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBwN2VmZjhxMDJ5eWs0MWNsNGV0dWo4ZGtweHM3cmNiZHgwNjZjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjQhNjIpbPk0yi2fU0/giphy.gif" alt="Coding GIF" width="400" />
+</p>
 # Hola, soy Ivan
 Soy estudiante de la **Licenciatura en Sistemas de la Información**, actualmente residiendo en **Corrientes Capital, Argentina**.
 
