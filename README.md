@@ -9,11 +9,9 @@ Por otra parte estoy muy predispuesto a trabajar en equipo, escuchando propuesta
 
 Podes encontrar mis redes en la biografia para contactarme.
 
-<p align="center">
 ![visits](https://komarev.com/ghpvc/?username=Ivan-Gauto&style=for-the-badge)
 ![followers](https://img.shields.io/github/followers/Ivan-Gauto?style=for-the-badge)
 ![repos](https://img.shields.io/badge/dynamic/json?label=repos&query=public_repos&url=https://api.github.com/users/Ivan-Gauto&style=for-the-badge)
-</p>
 
 ## Tecnologías
 
