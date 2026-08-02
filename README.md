@@ -15,9 +15,11 @@ Podes encontrar mis redes en la biografia para contactarme.
 
 ## Tecnologías
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
 <img src="https://skillicons.dev/icons?i=php,c,cs,java,mysql,postgres" />
-<img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" />  
+<img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" /> 
+</p>
 
 ## Stats
 
@@ -26,9 +28,9 @@ Podes encontrar mis redes en la biografia para contactarme.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Gauto&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Gauto&theme=github-dark" alt="Racha de commits" />
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViY2xub2RsaWd3OG9objRzbmxnaXcyaXl6em8yaDJvaTBveTN1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFkMnE3OGx2eHkzNDhmb3B1am53enRvMWNnangzMnJ6d3AyZnBuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3Gin2TnIVOE5TiG94/giphy.gif" alt="Coding GIF" width="400" />
 </p>
