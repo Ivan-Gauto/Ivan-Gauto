@@ -21,7 +21,14 @@ Podes encontrar mis redes en la biografia para contactarme.
 
 ## Stats
 
-![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Gauto&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Gauto&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Gauto&theme=dark" alt="Racha de commits" />
+</p>
 
-![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViY2xub2RsaWd3OG9objRzbmxnaXcyaXl6em8yaDJvaTBveTN1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Gauto&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ViY2xub2RsaWd3OG9objRzbmxnaXcyaXl6em8yaDJvaTBveTN1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding GIF" width="400" />
+</p>
