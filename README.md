@@ -6,7 +6,7 @@ Estoy abierto a participar en todo tipo de proyectos, con interés en el área d
 
 Creo fielmente que las herramientas y tecnologías evolucionan cada vez más rápido, y busco adaptarme constantemente a estos cambios, aprendiendo y mejorando mis habilidades como desarrollador. 
 
-Por otra parte estoy muy predispuesto a trabajar en equipo, escuchando propuestas y discutir para mejorar cualquier desarrollo o proyecto. 
+Por otra parte estoy muy dispuesto a trabajar en equipo, escuchar y discutir para mejorar y llevar adelante todo tipo de propuestas
 
 Podes encontrar mis redes en la biografia para contactarme.
 
