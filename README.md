@@ -25,14 +25,9 @@ Podes encontrar mis redes en la biografia para contactarme.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" padding="0px" width="30px"> Stats
 
-**<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Gauto&theme=dark" alt="Racha de commits" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Gauto&theme=github-dark" alt="Racha de commits" />
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>**
