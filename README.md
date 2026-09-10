@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm54bmNianVzYTJncmphZGMwYmQ4eHJwMDIwNjZqcXE5Mmw2ZHVnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVO1kC1C5UO1tqGKBG/giphy.gif" alt="Coding GIF" width="400" /><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm54bmNianVzYTJncmphZGMwYmQ4eHJwMDIwNjZqcXE5Mmw2ZHVnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVO1kC1C5UO1tqGKBG/giphy.gif" alt="Coding GIF" width="400" />
 </p>
 
-# Hola, soy Ivan
+# <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> Hola, soy Ivan
 Soy estudiante de la **Licenciatura en Sistemas de la Información**, actualmente residiendo en **Corrientes Capital, Argentina**.
 
 Estoy abierto a participar en todo tipo de proyectos, con interés en el área de **automatización y agentes de IA**.
