@@ -22,7 +22,7 @@ Podes encontrar mis redes en la biografia para contactarme.
 <img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" /> 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" padding="0px" width="40px"> Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" padding="0px" width="30px"> Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Gauto&theme=dark" alt="Racha de commits" />
