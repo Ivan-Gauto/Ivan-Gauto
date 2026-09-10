@@ -31,3 +31,7 @@ Podes encontrar mis redes en la biografia para contactarme.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Gauto&theme=github-dark" alt="Racha de commits" />
 </p>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
