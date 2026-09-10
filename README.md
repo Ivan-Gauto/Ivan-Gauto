@@ -1,4 +1,4 @@
-# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 23px></picture> Hola, soy Ivan
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> Hola, soy Ivan
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 Soy estudiante de la **Licenciatura en Sistemas de la Información**, actualmente residiendo en **Corrientes Capital, Argentina**.
 
@@ -22,7 +22,7 @@ Podes encontrar mis redes en la biografia para contactarme.
 <img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" /> 
 </p>
 
-## Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Gauto&theme=dark" alt="Racha de commits" />
