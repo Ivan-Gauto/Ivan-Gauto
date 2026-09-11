@@ -22,7 +22,7 @@ Podes encontrar mis redes en la biografia para contactarme.
 <tr>
 <td>
   
-![Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,php,c,csharp,java,postgres,git,npm,bootstrap,tailwind,react&perline=15)
+![Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,php,c,cs,java,postgres,git,npm,bootstrap,tailwind,react&perline=15)
 
 </td>
 </tr>
