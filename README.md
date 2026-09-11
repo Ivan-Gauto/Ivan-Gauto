@@ -18,8 +18,9 @@ Podes encontrar mis redes en la biografia para contactarme.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p align="center">
 <picture><img width ="250px" alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" /></picture>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
 <br>
 <img src="https://skillicons.dev/icons?i=php,c,cs,java,mysql,postgres" />
