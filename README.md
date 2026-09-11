@@ -15,8 +15,6 @@ Podes encontrar mis redes en la biografia para contactarme.
 ![followers](https://img.shields.io/github/followers/Ivan-Gauto?style=for-the-badge)
 ![repos](https://img.shields.io/badge/dynamic/json?label=repos&query=public_repos&url=https://api.github.com/users/Ivan-Gauto&style=for-the-badge)
 
-<picture><img width = 250px alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" /></picture>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
@@ -34,3 +32,5 @@ Podes encontrar mis redes en la biografia para contactarme.
 <p align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ivan-Gauto&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
+<picture><img width = 250px alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" /></picture>
