@@ -1,5 +1,6 @@
+
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> Hola, soy Ivan
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
+<picture><img align="right" width = 250px alt="logo 1" src="https://github.com/user-attachments/assets/032e4cf7-b9c4-4128-bcd0-42f03d479bd4" /></picture> 
 Soy estudiante de la **Licenciatura en Sistemas de la Información**, actualmente residiendo en **Corrientes Capital, Argentina**.
 
 Estoy abierto a participar en todo tipo de proyectos, con interés en el área de **automatización y agentes de IA**.
