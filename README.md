@@ -20,15 +20,10 @@ Podes encontrar mis redes en la biografia para contactarme.
 
 <table>
 <tr>
-<td width="250">
-  <img width ="250px" alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" />
-</td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
-<br>
 <img src="https://skillicons.dev/icons?i=php,c,cs,java,mysql,postgres" />
-<br>
 <img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" /> 
 
 </td>
