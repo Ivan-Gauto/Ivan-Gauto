@@ -18,14 +18,22 @@ Podes encontrar mis redes en la biografia para contactarme.
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<div align="center">
-<img width ="250px" alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" />
+<table>
+<tr>
+<td width="250">
+  <img width ="250px" alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" />
+</td>
+<td>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,nextjs" />
 <br>
 <img src="https://skillicons.dev/icons?i=php,c,cs,java,mysql,postgres" />
 <br>
 <img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" /> 
-</div>
+
+</td>
+</tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" padding="0px" width="30px"> Stats
 
