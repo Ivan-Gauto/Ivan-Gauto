@@ -24,6 +24,8 @@ Podes encontrar mis redes en la biografia para contactarme.
 <img src="https://skillicons.dev/icons?i=git,npm,bootstrap,tailwind,react" /> 
 </p>
 
+<picture><img width ="250px" alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" /></picture>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" padding="0px" width="30px"> Stats
 
 <p align="center">
@@ -33,4 +35,4 @@ Podes encontrar mis redes en la biografia para contactarme.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ivan-Gauto&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<picture><img align="center" width ="250px" alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" /></picture>
+
