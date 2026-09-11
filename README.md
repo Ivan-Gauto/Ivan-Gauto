@@ -21,7 +21,9 @@ Podes encontrar mis redes en la biografia para contactarme.
 <table align="center">
 <tr>
 <td>
+  
 ![Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,php,c,csharp,java,dart,postgres,git,npm,bootstrap,tailwind,react&perline=15)
+
 </td>
 </tr>
 </table>
