@@ -33,4 +33,4 @@ Podes encontrar mis redes en la biografia para contactarme.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ivan-Gauto&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<picture><img width=250px alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" /></picture>
+<picture><img align="center" width=250px alt="Logo 2" src="https://github.com/user-attachments/assets/4e94df5e-da36-4a97-bcad-0f79bffe2f22" /></picture>
